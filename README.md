@@ -1,4 +1,4 @@
-# Shaarli Plugin Emojione
+# Shaarli Plugin Twemoji
 Add colorful emojis to your Shaarli (Twemoji version)
 
 # Installation
